@@ -17,6 +17,9 @@ Register Here : [DRFT Party](https://t.me/drft_party_bot/game?startapp=968480911
 
 ## Installation
 
+git clone https://github.com/Pheanhutz/drft_party.git
+cd drft_party
+
 Install with python
 
 1. Download python
